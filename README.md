@@ -1,4 +1,4 @@
-rsModal
+rsGrid
 =======
 
 place a grid over a canvas element. I use this for help positioning things on the canvas.
