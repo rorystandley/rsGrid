@@ -6,7 +6,7 @@ place a grid over a canvas element. I use this for help positioning things on th
 **Installation**
 --
 ```
-npm install rsbackvid
+npm install rsgrid
 ```
 
 **Usage**
